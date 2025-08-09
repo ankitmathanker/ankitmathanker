@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🎓 Summary
-I am a Ph.D. Candidate in Chemical Engineering with research experience in atomistic modeling and machine learning for heterogeneous catalysis, and biomass conversion technologies. Specialized in electrocatalytic hydrogenation and hydrothermal liquefaction processes.
+I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Engineering in the University of Michigan. During my Ph.D. I have learned to study various heterogeneous catalysis systems on atomistic level using tools like density functional theory, molecular dyanmics, and machine learning. During my masters I also learned to use autoclave reactor for liquefaction and further product characeterization for biofuels and bitumen upgrading. 
 
 ---
 
