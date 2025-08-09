@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋!!
 <!--
 **ankitmathanker/ankitmathanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ANKIT MATHANKER
+# ANKIT MATHANKER 
 [ankitma@umich.edu](mailto:ankitma@umich.edu) — University of Michigan, Ann Arbor, USA
 
 ## Summary
