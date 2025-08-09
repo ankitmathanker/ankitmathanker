@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # ANKIT MATHANKER 🧑‍💻
----
+
 ## 🎓 Summary
+---
 Ph.D. Candidate in Chemical Engineering with extensive research experience in atomistic modeling, machine learning applications in catalysis, and biomass conversion technologies. Specialized in electrocatalytic hydrogenation and hydrothermal liquefaction processes.
 ---
 ## 📫Reach me out via
