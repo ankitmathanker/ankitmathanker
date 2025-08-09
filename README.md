@@ -22,7 +22,7 @@ Ph.D. Candidate in Chemical Engineering with extensive research experience in at
 
 ---
 
-## Education
+## 🔭 Education
 
 -   **Doctoral of Philosophy Candidate (Chemical Engineering)** | Aug 2021 – Present
     *University of Michigan, USA* | *GPA: 4.0/4.0*
@@ -35,7 +35,7 @@ Ph.D. Candidate in Chemical Engineering with extensive research experience in at
 
 ---
 
-## Skills
+## 🌱 Skills
 
 -   **Atomistic Modeling:** Atomic Simulation Environment, Pymatgen, VASP, JDFTx, GROMACS, MACE, DeePMD-kit, Microkinetic modeling
 -   **High-throughput Computing:** Slurm, PBS, LSF
