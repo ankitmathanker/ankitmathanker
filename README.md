@@ -1,4 +1,3 @@
-# Hi there 👋!!
 <!--
 **ankitmathanker/ankitmathanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋!! I am ANKIT MATHANKER 🧑‍💻
-## 🎓 Summary
-Ph.D. Candidate in Chemical Engineering with extensive research experience in atomistic modeling, machine learning applications in catalysis, and biomass conversion technologies. Specialized in electrocatalytic hydrogenation and hydrothermal liquefaction processes.
 
 ---
+
+## 🎓 Summary
+I am a Ph.D. Candidate in Chemical Engineering with research experience in atomistic modeling, machine learning applications in catalysis, and biomass conversion technologies. Specialized in electrocatalytic hydrogenation and hydrothermal liquefaction processes.
+
+---
+
 ## 📫Reach me out via
 - Email: [ankitma@umich.edu](mailto:ankitma@umich.edu)
 
