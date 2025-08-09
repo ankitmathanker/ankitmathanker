@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🎓 Summary
-I am a Ph.D. Candidate in Chemical Engineering with research experience in atomistic modeling, machine learning applications in catalysis, and biomass conversion technologies. Specialized in electrocatalytic hydrogenation and hydrothermal liquefaction processes.
+I am a Ph.D. Candidate in Chemical Engineering with research experience in atomistic modeling and machine learning for heterogeneous catalysis, and biomass conversion technologies. Specialized in electrocatalytic hydrogenation and hydrothermal liquefaction processes.
 
 ---
 
