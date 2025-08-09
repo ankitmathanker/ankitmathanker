@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ANKIT MATHANKER 
-[ankitma@umich.edu](mailto:ankitma@umich.edu) — University of Michigan, Ann Arbor, USA
+# ANKIT MATHANKER 🧑‍💻
+
+---
+## 📫Reach me out via
+- Email: [ankitma@umich.edu](mailto:ankitma@umich.edu)
 
 ## 🎓 Summary
 Ph.D. Candidate in Chemical Engineering with extensive research experience in atomistic modeling, machine learning applications in catalysis, and biomass conversion technologies. Specialized in electrocatalytic hydrogenation and hydrothermal liquefaction processes.
