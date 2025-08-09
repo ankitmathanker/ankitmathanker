@@ -155,10 +155,3 @@ I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Eng
 
 -   **Graduate student director**, AIChE Catalysis and Reaction Engineering Division | 2025
 -   **Graduate student representative**, Michigan Chapter of North American Catalysis Society | 2022–2024
--   **Graduate recruitment planning member in Chemical Engineering**, University of Michigan, USA | 2022–2024
--   **Core team member, Chemical Engineering Society - ChEGs**, University of Michigan, USA | 2022–2023
--   **Vice President, Toastmasters International**, University of Alberta, Canada | 2018–2019
-    -   Managed memberships, public relations and conducted public speaking competitions.
--   **Volunteer, UNITEA, Community Social Work Team**, University of Alberta, Canada | 2018–2019
--   **Volunteer, Kartavya - Non-governmental Organization**, IIT (ISM) Dhanbad, India | 2015–2017
--   **President, Chemical Engineering Society**, IIT (ISM) Dhanbad, India | 2015–2016
