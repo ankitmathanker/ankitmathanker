@@ -48,7 +48,7 @@ I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Eng
 
 ---
 
-## Research Experience
+## 🔬Research Experience
 
 -   **Graduate Research Assistant**, University of Michigan, USA | Aug 2021 – Present
     -   Predicting electrocatalytic hydrogenation of organic mixture using density functional theory to understand the synergistic or antagonistic effects of organics on each other in a biooil mixture. (Ongoing)
@@ -73,7 +73,7 @@ I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Eng
 
 ---
 
-## Publications
+## 📰Publications
 
 1.  **Mathanker, A.**; Sharma, G.; Tran, B.; Singh, N.; Goldsmith, B. R. [Effect of ions on the aqueous-phase adsorption of small aromatic organics on silver.](https://pubs-acs-org.proxy.lib.umich.edu/doi/full/10.1021/acs.jpcc.5c02870) *J. Phys. Chem. C* 2025, 129, 29, 13433-13444.
 2.  **Mathanker, A.**; Halarnkar, S.; Tran, B.; Singh, N.; Goldsmith, B. R. [Synergistic effects in organic mixtures for enhanced catalytic hydrogenation and hydrodeoxygenation.](https://doi.org/10.1016/j.checat.2024.101135) *Chem Catalysis* 2024, 4, 101135.
