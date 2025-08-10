@@ -75,12 +75,12 @@ I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Eng
 
 ## Publications
 
-1.  **Mathanker, A.**; Sharma, G.; Tran, B.; Singh, N.; Goldsmith, B. R. Effect of ions on the aqueous-phase adsorption of small aromatic organics on silver. *J. Phys. Chem. C* 2025, 129, 29, 13433-13444.
+1.  **Mathanker, A.**; Sharma, G.; Tran, B.; Singh, N.; Goldsmith, B. R. [Effect of ions on the aqueous-phase adsorption of small aromatic organics on silver.](https://pubs-acs-org.proxy.lib.umich.edu/doi/full/10.1021/acs.jpcc.5c02870) *J. Phys. Chem. C* 2025, 129, 29, 13433-13444.
 2.  **Mathanker, A.**; Halarnkar, S.; Tran, B.; Singh, N.; Goldsmith, B. R. [Synergistic effects in organic mixtures for enhanced catalytic hydrogenation and hydrodeoxygenation.](https://doi.org/10.1016/j.checat.2024.101135) *Chem Catalysis* 2024, 4, 101135.
-3.  **Mathanker, A.**; Yu, W.; Singh, N.; Goldsmith, B.R. Effects of ions on electrocatalytic hydrogenation and oxidation of organics in aqueous phase. *Curr. Opin. Electrochem.* 40, 101347 (2023).
-4.  Das, S.; **Mathanker, A.**; Pudasainee, D.; Khan M.; Kumar, A.; Gupta, R. Synergistic effect of water and co-solvents on the hydrothermal liquefaction of agricultural biomass to produce heavy oil. *International Journal of Energy for a Clean Environment* 2022, 23(4):31-45.
-5.  **Mathanker, A.**; Das, S.; Pudasainee, D.; Khan, M.; Gupta, R. A review on hydrothermal liquefaction of biomass for biofuels production with special focus on the effect of process parameters, co-solvents and extraction solvents. *Energies* 2021, 14, 4916.
-6.  **Mathanker, A.**; Pudasainee, D.; Kumar, A.; Gupta, R. Hydrothermal liquefaction of lignocellulosic biomass feedstock to produce biofuels: Parameter study and products characterization. *Fuel* 2020, 271, 117534.
+3.  **Mathanker, A.**; Yu, W.; Singh, N.; Goldsmith, B.R. [Effects of ions on electrocatalytic hydrogenation and oxidation of organics in aqueous phase.](https://doi.org/10.1016/j.coelec.2023.101347) *Curr. Opin. Electrochem.* 40, 101347 (2023).
+4.  Das, S.; **Mathanker, A.**; Pudasainee, D.; Khan M.; Kumar, A.; Gupta, R. [Synergistic effect of water and co-solvents on the hydrothermal liquefaction of agricultural biomass to produce heavy oil.](https://www.dl.begellhouse.com/references/6d18a859536a7b02,29f9221e318e21e7,61e800753c7b9f7a.html) *International Journal of Energy for a Clean Environment* 2022, 23(4):31-45.
+5.  **Mathanker, A.**; Das, S.; Pudasainee, D.; Khan, M.; Gupta, R. [A review on hydrothermal liquefaction of biomass for biofuels production with special focus on the effect of process parameters, co-solvents and extraction solvents.](https://www.mdpi.com/1996-1073/14/16/4916) *Energies* 2021, 14, 4916.
+6.  **Mathanker, A.**; Pudasainee, D.; Kumar, A.; Gupta, R. [Hydrothermal liquefaction of lignocellulosic biomass feedstock to produce biofuels: Parameter study and products characterization.](https://doi.org/10.1016/j.fuel.2020.117534) *Fuel* 2020, 271, 117534.
 7.  **Mathanker, A.** Hydrothermal liquefaction of lignocellulosic biomass to produce biofuels. *Thesis* 2020.
 
 ---
