@@ -90,6 +90,6 @@ I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Eng
 
 ## Seminar Talks
 
-1.  **Mathanker, A.** Can aqueous ions modify the adsorption of organics on Ag? The Student and Postdoc Summer Seminar Series, CSiDIR, 2025, University of Michigan, Ann Arbor, MI, USA.
+1.  **Mathanker, A.** [Can aqueous ions modify the adsorption of organics on Ag?](https://lindseylab.engin.umich.edu/csidir-seminars/) The Student and Postdoc Summer Seminar Series, CSiDIR, 2025, University of Michigan, Ann Arbor, MI, USA.
 
 ---
