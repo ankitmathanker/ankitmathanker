@@ -76,6 +76,9 @@ I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Eng
 ## 📰Publications
 
 1.  **Mathanker, A.**; Sharma, G.; Tran, B.; Singh, N.; Goldsmith, B. R. [Effect of ions on the aqueous-phase adsorption of small aromatic organics on silver.](https://pubs-acs-org.proxy.lib.umich.edu/doi/full/10.1021/acs.jpcc.5c02870) *J. Phys. Chem. C* 2025, 129, 29, 13433-13444.
+<p align="center">
+  <img src="assets/images/Ion_effect_On_Aromatic_Organic_On_Silver.jpeg" alt="Ankit Mathanker Headshot" width="75%">
+</p>
 ![Ankit Mathanker Headshot](assets/images/Ion_effect_On_Aromatic_Organic_On_Silver.jpeg)
 3.  **Mathanker, A.**; Halarnkar, S.; Tran, B.; Singh, N.; Goldsmith, B. R. [Synergistic effects in organic mixtures for enhanced catalytic hydrogenation and hydrodeoxygenation.](https://doi.org/10.1016/j.checat.2024.101135) *Chem Catalysis* 2024, 4, 101135.
 4.  **Mathanker, A.**; Yu, W.; Singh, N.; Goldsmith, B.R. [Effects of ions on electrocatalytic hydrogenation and oxidation of organics in aqueous phase.](https://doi.org/10.1016/j.coelec.2023.101347) *Curr. Opin. Electrochem.* 40, 101347 (2023).
