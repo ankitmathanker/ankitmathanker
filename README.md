@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋!! I am ANKIT MATHANKER 🧑‍💻
+# Hi there 🙏!! I am ANKIT MATHANKER 🧑‍💻
 
 ---
 
