@@ -6,6 +6,7 @@
 ---
 
 ## 🎓 Summary
+---
 I am a Ph.D. candidate in the Department of Chemical Engineering at the University of Michigan. During my Ph.D. studies, I have focused on investigating various heterogeneous catalysis systems at the atomistic level using tools such as density functional theory, molecular dynamics, and machine learning. In my Master's, I studied pyrolysis and liquefaction processes, along with characterization techniques for biofuels and bitumen upgrading.
 ---
 
