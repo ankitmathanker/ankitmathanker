@@ -16,6 +16,7 @@ I am a Ph.D. candidate in the Department of Chemical Engineering at the Universi
 ---
 ## 🗣️ Upcoming Talks & Poster Presentations
 
+##AICHE Annual Meeting - 2025
 ### **Talk 1:**
 **Title:** *Estimating Water Coverage and Adsorption Isotherms at Electrolyte/Metal Interfaces Using Machine Learning Potentials*  
 **Session:** *253d - Electrocatalysis V: Atomistic Insights at Electrochemical Interfaces*  
