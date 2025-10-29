@@ -1,24 +1,12 @@
 <!--
-**ankitmathanker/ankitmathanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ankitmathanker/ankitmathanker** 
 
 # Hi there 🙏!! I am ANKIT MATHANKER 🧑‍💻
 
 ---
 
 ## 🎓 Summary
-I am a Ph.D. Candidate in Chemical Engineering in the Department of Chemical Engineering in the University of Michigan. During my Ph.D. I have learned to study various heterogeneous catalysis systems on atomistic level using tools like density functional theory, molecular dyanmics, and machine learning. During my masters I also learned to use autoclave reactor for liquefaction and further product characeterization for biofuels and bitumen upgrading. 
+I am a Ph.D. Candidate in the Department of Chemical Engineering in the University of Michigan. During my Ph.D. I have learned to study various heterogeneous catalysis systems on atomistic level using tools like density functional theory, molecular dyanmics, and machine learning. In my masters I learned pyrolysis and liquefaction processes and characterization techniques for biofuels and bitumen upgrading. 
 
 ---
 
