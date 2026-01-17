@@ -19,6 +19,7 @@ I am a Ph.D. candidate in the Department of Chemical Engineering at the Universi
 ##GRC AI for Materials, Energy, and Chemical Sciences - 2026
 ### **Poster**
 **Title:** *Estimating potential-dependent physicochemical properties at metal/electrolyte interfaces using machine learning interatomic potentials*  
+🗓️ **Date : Time:** *Feburary 1-6, 2026, TBD*
 <!-- **Session:** *253d - Electrocatalysis V: Atomistic Insights at Electrochemical Interfaces* -->
 <!-- 🗓️ **Date & Time:** *Tuesday, November 4, 2025, 8:54 AM – 9:12 AM* -->  
 📍 **Location:** *2024 Seawall Boulevard, Galveston, Texas, USA*
