@@ -16,25 +16,12 @@ I am a Ph.D. candidate in the Department of Chemical Engineering at the Universi
 ---
 ## 🗣️ Upcoming Talks & Poster Presentations
 
-##AICHE Annual Meeting - 2025
-### **Talk 1:**
-**Title:** *Estimating Water Coverage and Adsorption Isotherms at Electrolyte/Metal Interfaces Using Machine Learning Potentials*  
-**Session:** *253d - Electrocatalysis V: Atomistic Insights at Electrochemical Interfaces*  
-🗓️ **Date & Time:** *Tuesday, November 4, 2025, 8:54 AM – 9:12 AM*  
-📍 **Location:** *Room 103 (Plaza Level), Hynes Convention Center, Boston, MA*
-
-### **Talk 2:**
-**Title:** *Effect of Ions on the Aqueous-Phase Adsorption of Organics on Silver*  
-**Session:** *458d - Catalysis and Reaction Engineering in Liquid and Multiphase Systems I: General*  
-🗓️ **Date & Time:** *Wednesday, November 5, 2025, 8:54 AM – 9:12 AM*  
-📍 **Location:** *Room 104 (Plaza Level), Hynes Convention Center, Boston, MA*
-
-### **Poster Presentation:**
-**Title:** *Understanding the Effect of Potential, Spectator Species, and Co-Reactants on Electrocatalytic Hydrogenation of Organics*  
-**Session:** *3ic - Meet the Faculty and Post-Doc Candidates Poster Session*  
-🗓️ **Date & Time:** *Sunday, November 2, 2025, 1:00 PM – 3:00 PM*  
-📍 **Location:** *Exhibit Hall C (Second Level), Hynes Convention Center, Boston, MA*  
-📑 **Poster Number:** *227*
+##GRC AI for Materials, Energy, and Chemical Sciences - 2026
+### **Poster**
+**Title:** *Estimating potential-dependent physicochemical properties at metal/electrolyte interfaces using machine learning interatomic potentials*  
+<!-- **Session:** *253d - Electrocatalysis V: Atomistic Insights at Electrochemical Interfaces* -->
+<!-- 🗓️ **Date & Time:** *Tuesday, November 4, 2025, 8:54 AM – 9:12 AM* -->  
+📍 **Location:** *2024 Seawall Boulevard, Galveston, Texas, USA*
 
 ---
 
