@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the Department of Chemical Engineering at the Universi
 ---
 ## 🗣️ Upcoming Talks & Poster Presentations
 
-##GRC AI for Materials, Energy, and Chemical Sciences - 2026
+## GRC AI for Materials, Energy, and Chemical Sciences - 2026
 ### **Poster**
 **Title:** *Estimating potential-dependent physicochemical properties at metal/electrolyte interfaces using machine learning interatomic potentials*  
 🗓️ **Date : Time:** *Feburary 1-6, 2026, TBD*
