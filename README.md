@@ -60,7 +60,7 @@ Scalable HPC pipelines for DFT and MD workflows, Slurm/PBS orchestration, and GP
 
 ## Snapshot
 
-- **Publications:** 9 · [See full list on my site](https://ankitmathanker.github.io/#publications)
+- **Publications:** 10 · [See full list on my site](https://ankitmathanker.github.io/#publications)
 - **Countries:** 3
 - **Awards:** 8+
 
