@@ -28,7 +28,7 @@ I completed my Ph.D. in Chemical Engineering and Scientific Computing at the Uni
 
 ## Theses
 
-- **Ph.D. dissertation:** Molecular-Level Insights into Organic Adsorption and Reactivity at Electrode-Electrolyte Interfaces. University of Michigan (2026).
+- **Ph.D. dissertation:** [Molecular-Level Insights into Organic Adsorption and Reactivity at Electrode-Electrolyte Interfaces](https://deepblue.lib.umich.edu/items/058cefb1-9d45-4b97-8229-6c8b1b3746bf). University of Michigan (2026).
 - **Master’s thesis:** [Hydrothermal liquefaction of lignocellulosic biomass to produce biofuels](https://era.library.ualberta.ca/items/ff551bc6-9676-4108-a098-ca315250fa24). University of Alberta (2020).
 
 ## Education
