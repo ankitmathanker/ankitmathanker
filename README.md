@@ -26,6 +26,11 @@ I completed my Ph.D. in Chemical Engineering and Scientific Computing at the Uni
 
 [Full publication list](https://ankitmathanker.github.io/#publications)
 
+## Theses
+
+- **Ph.D. dissertation:** Molecular-Level Insights into Organic Adsorption and Reactivity at Electrode-Electrolyte Interfaces. University of Michigan (2026).
+- **Master’s thesis:** [Hydrothermal liquefaction of lignocellulosic biomass to produce biofuels](https://era.library.ualberta.ca/items/ff551bc6-9676-4108-a098-ca315250fa24). University of Alberta (2020).
+
 ## Education
 
 - **Ph.D., Chemical Engineering and Scientific Computing** — University of Michigan, 2021–2026
