@@ -5,7 +5,7 @@
 **Postdoctoral Scholar**  
 University of Chicago / Argonne National Laboratory
 
-[Website](https://ankitmathanker.github.io/) · [CV (PDF)](https://ankitmathanker.github.io/assets/CV_AnkitMathanker.pdf) · [Google Scholar](https://scholar.google.com/citations?user=1PwEl2AAAAAJ&hl=en) · [Email](mailto:ankitm@uchicago.edu)
+[Website](https://ankitmathanker.github.io/) · [CV (PDF)](https://ankitmathanker.github.io/assets/CV_AnkitMathanker.pdf) · [Google Scholar](https://scholar.google.com/citations?user=1PwEl2AAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/ankit-mathanker) · [Email](mailto:ankitm@uchicago.edu)
 
 I am a postdoctoral scholar at the University of Chicago / Argonne National Laboratory. My current research focuses on covalent organic frameworks as organic cathode materials for lithium-ion batteries, with the aim of improving capacity and stability.
 
