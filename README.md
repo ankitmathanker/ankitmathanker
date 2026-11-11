@@ -5,7 +5,7 @@
 **Postdoctoral Scholar**  
 University of Chicago / Argonne National Laboratory
 
-[Website](https://ankitmathanker.github.io/) · [CV (PDF)](https://ankitmathanker.github.io/assets/CV_AnkitMathanker.pdf?v=340344d) · [Google Scholar](https://scholar.google.com/citations?user=1PwEl2AAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/ankit-mathanker) · [Email](mailto:ankitm@uchicago.edu)
+[Website](https://ankitmathanker.github.io/) · [CV (PDF)](https://ankitmathanker.github.io/assets/CV_AnkitMathanker.pdf?v=9188519) · [Google Scholar](https://scholar.google.com/citations?user=1PwEl2AAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/ankit-mathanker) · [Email](mailto:ankitm@uchicago.edu)
 
 I am a postdoctoral scholar at the University of Chicago / Argonne National Laboratory. My current research focuses on covalent organic frameworks as organic cathode materials for lithium-ion batteries, with the aim of improving capacity and stability.
 
@@ -20,9 +20,9 @@ I completed my Ph.D. in Chemical Engineering and Scientific Computing at the Uni
 
 ## Recent publications
 
+- [Modeling the inner electric double layer using short-range machine learning potentials: A critical assessment](https://doi.org/10.1063/5.0359674). *The Journal of Chemical Physics*, 165 (18), 184709 (2026).
 - [TSAgent: An Agentic Workflow for Autonomous Transition State Search](https://arxiv.org/abs/2605.14154). *arXiv:2605.14154* (2026).
 - [Estimating potential-dependent physicochemical properties at metal–electrolyte interfaces using machine learning interatomic potentials](https://doi.org/10.1021/acselectrochem.5c00540). *ACS Electrochemistry*, 2 (5), 1176–1189 (2026).
-- [Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces](https://arxiv.org/abs/2602.22931). *Journal of Chemical Physics*, In press; preprint arXiv:2602.22931 (2026).
 
 [Full publication list](https://ankitmathanker.github.io/#publications)
 
